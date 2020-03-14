@@ -42,6 +42,10 @@ nav {
     background-color: #34252F;
     border-radius: 25px; }
 
+.bear-trap {
+  display: none
+}
+
 #blitter {
   position: relative; }
   #blitter img.blitter {
